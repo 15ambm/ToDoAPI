@@ -1,0 +1,24 @@
+{
+  "name": "todoapi",
+  "version": "1.0.0",
+  "description": "This is my first attempt at making an api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15ambm/ToDoAPI.git"
+  },
+  "author": "Alex Mason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15ambm/ToDoAPI/issues"
+  },
+  "homepage": "https://github.com/15ambm/ToDoAPI#readme"
+}
