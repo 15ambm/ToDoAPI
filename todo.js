@@ -21,22 +21,16 @@ class ToDo {
 
   static isValid(item) {
     // console.log(item);
-    if (!item.id) {
+    if (!item.id || typeof item.id !== 'string') {
       return false;
     } if (!item.name) {
       return false;
-    } if (!item.description) {
-      return false;
-    } if (!item.tags) {
-      return false;
-    } if (!item.status) {
-      return false;
-    }
-    return true;
+    } return true;
   }
 
   static packageItem(item) {
     const newItem = {
+      id: item.id,
       name: item.name,
       description: item.description,
       tags: item.tags,
