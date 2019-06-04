@@ -4,8 +4,14 @@
   "description": "This is my first attempt at making an api",
   "main": "index.js",
   "dependencies": {
+    "config": "^3.1.0",
+    "debug": "^4.1.1",
     "express": "^4.17.1",
-    "express-validator": "^5.3.1"
+    "express-validator": "^5.3.1",
+    "helmet": "^3.18.0",
+    "morgan": "^1.9.1",
+    "npm-config": "^0.2.0",
+    "pug": "^2.0.3"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
