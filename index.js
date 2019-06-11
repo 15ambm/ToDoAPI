@@ -3,14 +3,15 @@
 const startupDebugger = require('debug')('app:startup');
 const debug = require('debug')('app:db'); // 'app:db' is our namespace, we use this to choose what debug lines to use
 
+process.env.NODE_CONFIG_DIR = './app/config';
 const config = require('config');
 // const helmet = require('helmet');
 const morgan = require('morgan');
 const express = require('express');
 const expressValidator = require('express-validator');
 // const ToDo = require('./todo');
-const list = require('./routes/list');
-const home = require('./routes/home');
+const list = require('./app/routes/list');
+const home = require('./app/routes/home');
 
 
 const app = express();
@@ -22,6 +23,7 @@ app.set('views', './views');
 // console.log(app.get('env'));
 
 // Configuration
+
 console.log(`Application Name: ${config.get('name')}`);
 
 // app.use(helmet());

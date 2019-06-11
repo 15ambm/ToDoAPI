@@ -1,10 +1,10 @@
 
 
 const express = require('express');
-const ToDo = require('../todo');
+const ToDo = require('../controllers/todo');
 
 const router = express.Router();
-const logger = require('../logger');
+const logger = require('../logger/logger');
 
 const aList = new ToDo('AlexsList');
 
