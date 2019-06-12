@@ -13,10 +13,14 @@ class ToDo {
     return this.list;
   }
 
-  updateItem(id, change) {
-    const index = this.list.findIndex((obj => obj.id === id));
-
-    this.list[index] = change;
+  updateItem(itemId, update) {
+    const index = this.list.findIndex((obj => obj.id === itemId));
+    const { id, ...otherProps } = update;
+    const newItem = {
+      id: this.list[index].id,
+      ...otherProps,
+    };
+    this.list[index] = newItem;
   }
 
   static isValid(item) {
