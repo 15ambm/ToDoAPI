@@ -4,6 +4,7 @@
   "description": "This is my first attempt at making an api",
   "main": "index.js",
   "dependencies": {
+    "chai": "^4.2.0",
     "config": "^3.1.0",
     "debug": "^4.1.1",
     "express": "^4.17.1",
@@ -17,11 +18,13 @@
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.17.3"
+    "eslint-plugin-import": "^2.17.3",
+    "expect.js": "^0.3.1",
+    "install": "^0.13.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test": "mocha \"app/test/test.js\""
   },
   "repository": {
     "type": "git",

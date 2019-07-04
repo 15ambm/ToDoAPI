@@ -140,3 +140,96 @@
 {"id":31,"name":"new item yo","description":"not ok","stadtus":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 09:59:48"}
 {"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok","stadtus":"lol"},"2":{"id":3,"name":"item4"},"3":{"id":4,"name":"new item yo","description":"ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 09:59:51"}
 {"id":31,"name":"new item yo","descrsadiption":"not ok","status":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 10:02:27"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:27:21"}
+{"level":"warn","message":"/api/list POST Request Unable to post invalid item","timestamp":"2019-07-04 10:31:46"}
+{"level":"warn","message":"/api/list POST Request Unable to post invalid item","timestamp":"2019-07-04 10:31:56"}
+{"level":"warn","message":"/api/list POST Request Unable to post invalid item","timestamp":"2019-07-04 10:36:13"}
+{"id":5,"name":"new item yo","description":"not ok","status":"lol","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 10:36:24"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok","status":"lol"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:36:28"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:39:57"}
+{"id":5,"name":"new item yo","description":"not ok","status":"lol","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 10:40:00"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok","status":"lol"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:40:01"}
+{"id":6,"name":"new item yo","description":"not ok","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 10:40:05"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok","status":"lol"},"5":{"id":6,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:40:07"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:50:12"}
+{"id":5,"name":"new item yo","description":"not ok","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 10:55:20"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 10:55:21"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:04:36"}
+{"id":1,"name":"item1","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 11:04:38"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:04:39"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:05:54"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:06:35"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:06:47"}
+{"id":1,"name":"item1","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 11:06:49"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:06:50"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:06:57"}
+{"id":3,"name":"item4","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 11:07:00"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:07:01"}
+{"id":3,"name":"new item yo","description":"not ok","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 11:07:14"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 11:07:15"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:15:09"}
+{"id":1,"name":"item1","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 12:15:15"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:15:16"}
+{"id":1,"name":"item2","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 12:15:18"}
+{"0":{"id":1,"name":"item3"},"1":{"id":2,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:15:19"}
+{"id":1,"name":"item3","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 12:15:20"}
+{"id":1,"name":"item4","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 12:15:21"}
+{"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:15:22"}
+{"level":"warn","message":"/api/list DELETE Could not find an item with that name","timestamp":"2019-07-04 12:15:24"}
+{"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:15:25"}
+{"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:17:20"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:17:23"}
+{"id":31,"name":"new item yo","description":"not ok","statudasds":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:17:43"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok","statudasds":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:17:45"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:17:57"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:17:58"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:19:20"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:19:21"}
+{"id":31,"name":"new item yo","s":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:19:31"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","s":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:19:33"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:19:45"}
+{"id":31,"name":"new item yo","s":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:19:49"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","s":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:19:50"}
+{"id":31,"name":"new item yo","s":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:22:41"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","s":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:22:42"}
+{"level":"warn","message":"/api/list PUT Item is not valid","timestamp":"2019-07-04 12:23:50"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:23:52"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:24:02"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok","asd":"lol"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:24:03"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:30:50"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 12:31:15"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":31,"name":"new item yo","description":"not ok","asd":"lol"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:31:16"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 12:31:35"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:31:37"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:31:48"}
+{"0":{"id":1,"name":"new item yo","description":"not ok","asd":"lol"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:31:49"}
+{"id":1,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list DELETE Request","timestamp":"2019-07-04 12:31:58"}
+{"0":{"id":1,"name":"item2"},"1":{"id":2,"name":"item3"},"2":{"id":3,"name":"item4"},"3":{"id":4,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:32:00"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:34:41"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:34:46"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:34:47"}
+{"0":{"id":1,"name":"new item yo","description":"not ok"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:34:48"}
+{"level":"warn","message":"/api/list PUT Item is not valid","timestamp":"2019-07-04 12:34:56"}
+{"0":{"id":1,"name":"new item yo","description":"not ok"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:34:57"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:35:01"}
+{"0":{"id":1,"name":"new item yo","description":"not ok"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:35:02"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 12:35:19"}
+{"0":{"id":1,"name":"new item yo","description":"not ok"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 12:35:20"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:39:26"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:39:27"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","asSd":12,"level":"info","message":"/api/list POST Request","timestamp":"2019-07-04 14:39:38"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:39:39"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 14:39:45"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"4":{"id":5,"name":"new item yo","description":"not ok"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:39:47"}
+{"level":"warn","message":"/api/list PUT Item is not valid","timestamp":"2019-07-04 14:39:51"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:46:42"}
+{"level":"warn","message":"/api/list PUT Item is not valid","timestamp":"2019-07-04 14:46:44"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:46:46"}
+{"id":31,"name":"new item yo","description":"not ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 14:46:54"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:46:57"}
+{"name":"new item yo","description":"not ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 14:55:59"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:56:01"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"not ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:56:02"}
+{"name":"new item yo","description":"sadasdasda ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 14:56:07"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"sadasdasda ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:56:09"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 15:14:13"}

@@ -38,9 +38,8 @@ router.post('/', (req, res) => {
 
   // If it is valid input, add to our list
   if (check) {
-    const newItem = aList.packageItem(item);
-    aList.addItem(newItem);
-    logger.log('info', '/api/list POST Request', newItem);
+    aList.addItem(item);
+    logger.log('info', '/api/list POST Request', item);
     return res.status(201).send('new item added');
   }
   // If invalid input let the user know
@@ -62,6 +61,7 @@ router.put('/:id', (req, res) => {
   // if the update is not valid OR an attempt to change the id is made, send a bad request
 
   if (ToDo.isValid(req.body)) {
+    console.log(req.body);
     // otherwise update the item and indicate success
     aList.updateItem(id, req.body);
     logger.log('info', '/api/list PUT Request', req.body);
@@ -80,11 +80,9 @@ router.delete('/:id', (req, res) => {
     return res.status(404).send('Could not find an item with that name');
   }
 
-  const index = aList.getList().indexOf(item);
-  aList.getList().splice(index, 1);
+  aList.deleteItem(item, id);
   logger.log('info', '/api/list DELETE Request', item);
 
-  aList.updateIDs(id);
   return res.status(200).send(item);
 });
 
