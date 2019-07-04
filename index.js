@@ -17,7 +17,7 @@ const home = require('./app/routes/home');
 const app = express();
 
 app.set('view engine', 'pug'); // express handles loading the pug module itself
-app.set('views', './views');
+app.set('views', './app/views');
 
 // console.log(process.env.NODE_ENV);
 // console.log(app.get('env'));

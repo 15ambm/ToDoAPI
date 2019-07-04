@@ -63,7 +63,6 @@ router.put('/:id', (req, res) => {
 
   if (ToDo.isValid(req.body)) {
     // otherwise update the item and indicate success
-    console.log(typeof req.params.id);
     aList.updateItem(id, req.body);
     logger.log('info', '/api/list PUT Request', req.body);
     return res.status(200).send('item updated');

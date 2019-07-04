@@ -27,7 +27,9 @@ class ToDo {
     // console.log(item);
     if (!item.name || typeof item.name !== 'string') {
       return false;
-    } return true;
+    } else if (item.description)
+    return true;
+
   }
 
   packageItem(item) {
