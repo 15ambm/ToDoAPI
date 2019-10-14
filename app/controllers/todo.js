@@ -17,7 +17,7 @@ class ToDo {
   }
 
   getList() {
-    const list = this.list;
+    const { list } = this;
     return list;
   }
 
@@ -31,7 +31,7 @@ class ToDo {
       description: otherProps.description,
       tags: otherProps.tags,
       status: otherProps.status,
-      //...otherProps,
+      // ...otherProps,
     };
     this.list[index] = newItem;
   }
@@ -39,10 +39,10 @@ class ToDo {
   static isValid(item) {
     // console.log(item);
     if (item.name && typeof item.name === 'string') {
-      if (item.description && typeof item.name === 'string'){
+      if (item.description && typeof item.name === 'string') {
         return true;
       }
-    } 
+    }
     return false;
 
   }

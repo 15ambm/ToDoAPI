@@ -233,3 +233,4 @@
 {"name":"new item yo","description":"sadasdasda ok","asd":"lol","asSd":12,"level":"info","message":"/api/list PUT Request","timestamp":"2019-07-04 14:56:07"}
 {"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"new item yo","description":"sadasdasda ok"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 14:56:09"}
 {"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-07-04 15:14:13"}
+{"0":{"id":1,"name":"item1"},"1":{"id":2,"name":"item2"},"2":{"id":3,"name":"item3"},"3":{"id":4,"name":"item4"},"level":"info","message":"/api/list GET Request","timestamp":"2019-10-14 18:52:14"}
